@@ -1,0 +1,13 @@
+product_id,warehouse_id,current_stock,holding_cost_per_unit,ordering_cost,lead_time_days
+P001,WH_East,171,8.75,78,17
+P001,WH_West,314,10.99,88,16
+P002,WH_East,199,5.58,73,11
+P002,WH_West,408,6.43,52,12
+P003,WH_East,585,4.88,49,10
+P003,WH_West,659,1.73,40,5
+P004,WH_East,674,3.45,44,5
+P004,WH_West,766,3.45,47,7
+P005,WH_East,456,9.88,42,14
+P005,WH_West,423,7.76,48,16
+P006,WH_East,414,9.64,53,27
+P006,WH_West,593,3.11,41,24
