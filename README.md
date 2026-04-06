@@ -1,6 +1,6 @@
 # 📦 Interactive Inventory Optimization & Simulation System
 
-![Dashboard Simulation Video](outputs/dashboard_demo.webp)
+![Dashboard Banner](outputs/dashboard_reorder_needed.png)
 
 ## 📊 Project Overview
 In the fast-paced E-commerce industry, inventory planners are constantly caught between two massive financial risks: **Stockouts** (which destroy customer trust and revenue during spikes like Black Friday) and **Overstocking** (which traps crucial working capital in dead warehousing costs). 
@@ -35,8 +35,8 @@ This project is an end-to-end, decision-support system built to bridge the gap b
 
 ## 📸 Demo & Visuals
 
-*   **The Simulation Dashboard (Interactive Video):**
-    ![Dashboard Demo Video](outputs/dashboard_demo.webp)
+*   **The Simulation Dashboard (Overview):**
+    ![Dashboard Overview](outputs/dashboard_chart.png)
 *   **The Reorder Alert & Metrics Shift:**
     ![Dashboard Alert](outputs/dashboard_reorder_needed.png)
 *   **Historical vs Projected Demand Chart:** 
