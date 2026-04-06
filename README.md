@@ -35,8 +35,8 @@ This project is an end-to-end, decision-support system built to bridge the gap b
 
 ## 📸 Demo & Visuals
 
-*   **The Simulation Dashboard (Overview):**
-    ![Dashboard Overview](outputs/dashboard_chart.png)
+*   **The Simulation Dashboard (Interactive Video):**
+    ![Dashboard Demo Video](outputs/dashboard_demo.webp)
 *   **The Reorder Alert & Metrics Shift:**
     ![Dashboard Alert](outputs/dashboard_reorder_needed.png)
 *   **Historical vs Projected Demand Chart:** 
